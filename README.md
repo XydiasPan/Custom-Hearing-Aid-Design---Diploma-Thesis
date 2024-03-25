@@ -34,4 +34,5 @@ For further exploration, the complete diploma thesis is available for reference 
 
 microelectronics, embedded systems, hearing aid
 
-
+## Preview
+![ACETT STM32 Design Preview](top.jpg)
