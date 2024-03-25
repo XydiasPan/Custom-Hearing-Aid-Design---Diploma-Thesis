@@ -35,4 +35,4 @@ For further exploration, the complete diploma thesis is available for reference 
 microelectronics, embedded systems, hearing aid
 
 ## Preview
-![Custom Hearing Aid Design Preview](top.png)
+![Custom Hearing Aid Design Preview](top.PNG)
