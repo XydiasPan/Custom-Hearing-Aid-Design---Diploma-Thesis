@@ -7,4 +7,4 @@ keywords : microelectronics, embedded systems, hearing aid
 This repository contains code implemented in Arduino IDE and the design files for the prototype PCB (Altium Designer)
 
 *You can also find the diploma thesis uploaded in the URL below :* 
-https://nemertes.library.upatras.gr/search?query=%CE%BE%CF%85%CE%B4%CE%B9%CE%B1%CF%82
+https://nemertes.library.upatras.gr/items/dee14091-035d-41c2-a240-8a178baa6b48
